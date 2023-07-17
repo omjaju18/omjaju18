@@ -1,18 +1,21 @@
 <h1 align="center">Hello Everyone , I'm OM JAJU </h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/omjaju18/omjaju18/main/Github Profile.png" widrh="900px" height="500px"> </div>
-<h3 align="center">A Passionate Technical Enthusiast with expertise in HTML, CSS, Javascript, ReactJS, Typescript, Cybersecurity, and Python from India</h3>
+<div align="center"> <img src="https://raw.githubusercontent.com/omjaju18/omjaju18/main/Github Profile.png" widrh="600px" height="400px"> </div>
+<h3 align="center"> Meet a passionate technical enthusiast from India 🇮🇳! I'm a skilled coder proficient in HTML, CSS, Javascript, ReactJS, Typescript, Cybersecurity, and Python 🖥️💡. My love for coding is as vast as the ocean 🌊, and I'm always ready to dive into new challenges and explore the depths of technology 🌟.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omjaju18&label=Profile%20views&color=0e75b6&style=flat" alt="omjaju18" /> </p>
+<p align="right"> <img src="https://raw.githubusercontent.com/omjaju18/omjaju18/main/Github Profile.png" widrh="600px" height="400px"> </p>
 
 
 - 🌱 I’m currently learning  HTML5, CSS, Javascript, ReactJS, Typedcipt, Cybersecurity, and Python.
 
-- 👨‍💻 All of my projects are available at [https://ojportfolio-12u1a41xx-omjaju18.vercel.app/](https://ojportfolio-12u1a41xx-omjaju18.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio Website](https://ojportfolio-12u1a41xx-omjaju18.vercel.app/)
 
 - 💬 Ask me about HTML5, CSS, Javascript, ReactJS, Typedcipt, Cybersecurity, Python.
 
-- 📫 How to reach me **omjaju03@gmail.com**
+- 📫To Reach ME : [My Gmail](omjaju03@gmail.com)
+
+
 
 
 <h3 align="left">Connect with me:</h3>
