@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm OM JAJU</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/omjaju18/omjaju18/main/"> </div>
-<h3 align="center">A Passionate Technical Enthusiast with expertise in HTML, CSS, Javascript, ReactJS, Typescript, Cybersecurity and Python from India</h3>
+<div align="center"> <img src="https://raw.githubusercontent.com/omjaju18/omjaju18/main/Github Profile.png" widrh="300px" height="300px"> </div>
+<h3 align="center">A Passionate Technical Enthusiast with expertise in HTML, CSS, Javascript, ReactJS, Typescript, Cybersecurity, and Python from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omjaju18&label=Profile%20views&color=0e75b6&style=flat" alt="omjaju18" /> </p>
