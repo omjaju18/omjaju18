@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm OM JAJU</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/omjaju18/omjaju18/main/banner2.png"> </div>
-<h3 align="center">A Passionate Technical Enthusiast with expertise in HTML, CSS, Javascript, ReactJS, Typescript, Cybersecurity from India</h3>
+<div align="center"> <img src="https://raw.githubusercontent.com/omjaju18/omjaju18/main/"> </div>
+<h3 align="center">A Passionate Technical Enthusiast with expertise in HTML, CSS, Javascript, ReactJS, Typescript, Cybersecurity and Python from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omjaju18&label=Profile%20views&color=0e75b6&style=flat" alt="omjaju18" /> </p>
 
-- 🌱 I’m currently learning  HTML5, CSS, Javascript, ReactJS, Typedcipt, Cybersecurity, Python.
+
+- 🌱 I’m currently learning  HTML5, CSS, Javascript, ReactJS, Typedcipt, Cybersecurity, and Python.
 
 - 👨‍💻 All of my projects are available at [https://ojportfolio-12u1a41xx-omjaju18.vercel.app/](https://ojportfolio-12u1a41xx-omjaju18.vercel.app/)
 
