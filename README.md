@@ -1,5 +1,5 @@
 <h1 align="center"> Hey Everyone👋! I'm OM JAJU </h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/omjaju18/omjaju18/main/Github Profile.png" widrh="60%" height="400px"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/omjaju18/omjaju18/main/Github banner.jpg" widrh="60%" height="400px"> </div>
 <h3 align="center"> Meet a passionate technical enthusiast from India 🇮🇳! I'm a skilled coder proficient in HTML, CSS, Javascript, ReactJS, Typescript, Cybersecurity, and Python 🖥️💡. My love for coding is as vast as the ocean 🌊, and I'm always ready to dive into new challenges and explore the depths of technology 🌟.</h3>
 <br>
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/omjaju18/omjaju18/main/Github Profile.png" >
