@@ -36,6 +36,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omjaju18&" alt="omjaju18" /></p>
 
-### 📈 My GitHub Contributions
-![Snake animation](https://github.com/omjaju18/blob/output/github-contribution-grid-snake.svg)
--->
+
