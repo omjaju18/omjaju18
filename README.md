@@ -5,10 +5,6 @@
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/omjaju18/omjaju18/main/Github Profile.png" >
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omjaju18&label=Profile%20views&color=0e75b6&style=flat" alt="omjaju18" /> </p>
-
-
-
 - 🌱 I’m currently learning  HTML5, CSS, Javascript, ReactJS, Typescript, Cybersecurity, and Python.
 
 - 👨‍💻 All of my projects are available at [My Portfolio Website](https://omjaju.vercel.app/)
