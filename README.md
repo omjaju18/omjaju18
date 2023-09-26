@@ -11,6 +11,8 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio Website](https://omjaju.vercel.app/)
 
+- 📝 I regularly write articles on [Hashnode](https://omjaju.hashnode.dev/)
+
 - 💬 Ask me about HTML5, CSS, Javascript, ReactJS, Typescript, Cybersecurity, Python.
 
 - 📫To Reach ME : [My Gmail](omjaju03@gmail.com)
