@@ -72,19 +72,19 @@ I'm a **Site Reliability Engineer at Morgan Stanley**, focused on building autom
 Engineered an end-to-end CI/CD pipeline for Java Spring Boot applications with automated quality gates, containerization, and GitOps-based Kubernetes deployments.
 - **Tech:** Jenkins, Maven, SonarQube, Docker, ArgoCD, Kubernetes
 - **Impact:** Automated quality gates, fully auditable deployment history, production-ready
-- 🔗 [View Project](https://github.com/omjaju18/[repo-link])
+- 🔗 [View Project](https://github.com/omjaju18/Ultimate_CICD_Project])
 
 ### **GitOps-Based Deployment Automation using GitHub Actions & Argo CD**
 Built a fully automated deployment pipeline where code changes trigger container builds and Kubernetes deployments without manual intervention.
 - **Tech:** GitHub Actions, ArgoCD, Kubernetes, Docker, GitOps
 - **Impact:** Zero-click deployments, faster iteration, GitOps best practices
-- 🔗 [View Project](https://github.com/omjaju18/[repo-link])
+- 🔗 [View Project](https://github.com/omjaju18/Flask-App-GitHub-Actions-ArgoCD])
 
 ### **Scalable Real-Time Chat Application on Kubernetes**
 Designed and deployed a production-grade chat application (React, Node.js, MySQL) to Kubernetes with proper service routing, configuration management, and data persistence.
 - **Tech:** React, Node.js, MySQL, Kubernetes, Docker, Nginx
 - **Impact:** Full-stack Kubernetes deployment, production-grade reliability patterns
-- 🔗 [View Project](https://github.com/omjaju18/[repo-link])
+- 🔗 [View Project](https://github.com/omjaju18/3Tier_Chat_Application])
 
 ### **Full-Stack Web Application: Django + MySQL + Nginx (Docker Compose)**
 Built and containerized a multi-tier web application using Docker Compose with proper service orchestration, networking, and data persistence.
